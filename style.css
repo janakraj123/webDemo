@@ -1,0 +1,22 @@
+ul{
+  list-style-type: none;
+  margin-top:18x;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4E4A4A;
+}
+
+ul li {
+  float: left;
+}
+
+ul  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 8px;
+  text-decoration: none;
+}
+header{
+	border: 2px;
+}
